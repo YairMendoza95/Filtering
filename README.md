@@ -1,10 +1,10 @@
 # banca
 
-> A Vue.js project
+> Ejemplo de filtración de registros de una tabla con Spring Framework como bankend y en la parte frontend Vue.js 2, Bootstrap 4, Bootstrap Vue, CSS3
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
